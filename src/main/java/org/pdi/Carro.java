@@ -5,6 +5,6 @@ public class Carro {
     public String modelo;
 
     public void acelerar() {
-        System.out.println("O carro está acelerando.");
+        System.out.println("O carro esta acelerando.");
     }
 }
